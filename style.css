@@ -1,0 +1,21 @@
+.generale{
+    margin-top: 200px;
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+}
+
+.ticket{
+    margin-top: 200px;
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+}
+
+.ticket ul{
+    list-style: none;
+}
+
+body{
+    background-color: purple;
+}
